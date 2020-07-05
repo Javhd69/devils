@@ -621,7 +621,7 @@ def pilih_super():
 
 if __name__ == '__main__':
 	login()
-;91m: \033[1;97mout/cp.txt")
+;91m: \033[1;97mout/CheckPoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 
