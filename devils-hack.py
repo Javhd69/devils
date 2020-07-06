@@ -127,7 +127,7 @@ jalan('⊱⊹⊰━━━━━━━━━━━━━━━━━━━━━�
 jalan('\033[1;91m      \033[1;91m MASUKAN USERNAME DAN PASSWORD SCRIPT \033[1;0m     ') 
 jalan('⊱⊹⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⊹⊰') 
 
-CorrectUsername = "javhd"
+CorrectUsername = "devil"
 CorrectPassword = "1878"
 
 loop = 'true'
