@@ -339,12 +339,19 @@ def super():
 	pilih_super()
 			
   def pilih_super():
+
 	peak = raw_input("\n\033[1;31;40m>>> \033[1;97m")
+
 	if peak =="":
+
 		print "\x1b[1;91mFill in correctly"
+
 		pilih_super()
+
 	elif peak =="1":
+
 		os.system('clear')
+
 		print logo
 		print "\033[1;96m⊱⋕⊰═══════════════════════════════════════⊱⋕⊰\n" 
 		idt = raw_input("\033[1;96m[⊱⋕⊰]\033[1;93m Enter ID/USERNAME\033[1;91m : ")
