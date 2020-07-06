@@ -132,10 +132,10 @@ CorrectPassword = "1878"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[#] \x1b[0;36m Enter Username\x1b[1;92m➤ ")
-    if (username == Masukan Username):
-    	password = raw_input("\033[1;96m[#] \x1b[0;36m Enter Password\x1b[1;92m➤ ")
-        if (password == Masukan Password):
+    username = raw_input("\033[1;96m[#] \x1b[0;36m Masukan Username\x1b[1;92m➤ ")
+    if (username == CorrectUsername):
+    	password = raw_input("\033[1;96m[#] \x1b[0;36m Masukan Password\x1b[1;92m➤ ")
+        if (password == CorrectUsername):
             print "Login Berhasil " + username  #DEV Devil_HACK
             loop = 'false'
         else:
